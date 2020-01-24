@@ -9,6 +9,5 @@ class Dancer
  
   def initialize(name)
     @name = name
-    include Dance
   end
 end 
