@@ -9,6 +9,6 @@ class Dancer
  
   def initialize(name)
     @name = name
-    self.Dance
+    Dance
   end
 end 
